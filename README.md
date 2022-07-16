@@ -1,21 +1,21 @@
 <h1 align="center">Hi Coder's👋
-  <br>I'm Dipanshu</h1>
+  <br>I'm Aditya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 - 🌱 I’m currently learning **C, Java**
 
 
-- 👨‍💻 All of my projects are available at [https://dipanshu1210.github.io/dipanshuvarshney](https://dipanshu1210.github.io/dipanshuvarshney)
+- 👨‍💻 All of my projects are available at [https://github.com/Itzadityapandey](https://github.com/Itzadityapandey)
 <br>https://calculator-using-html-css-js-1.dipanshuvarshne.repl.co/
 
-- 📫 How to reach me **dipanshu.2023mca1140@kiet.edu**
+- 📫 How to reach me **email.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1kYuBEVpTksPP3uRG6qY6iCDKxFcuKeen/view?usp=drivesdk
 - - ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@dipanshuvarshn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dipanshuvarshn7" height="30" width="40" /></a>
+<a href="https://twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dipanshuvarshn7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dipanshu-varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshu-varshney" height="30" width="40" /></a>
 <a href="https://fb.com/dipanshu.varshney.397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipanshu.varshney.397" height="30" width="40" /></a>
 <a href="https://instagram.com/dipanshu__varshney_dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipanshu__varshney_dv" height="30" width="40" /></a>
