@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **email.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1kYuBEVpTksPP3uRG6qY6iCDKxFcuKeen/view?usp=drivesdk
+- 📄 Know about my experiences link*
 - - ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,6 +22,7 @@
 <a href="https://www.codechef.com/users/dipanshu_1210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dipanshu_1210" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dipanshuvarshne2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipanshuvarshne2" height="30" width="40" /></a>
 </p>
+
 
 
 
