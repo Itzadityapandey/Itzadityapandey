@@ -6,9 +6,9 @@
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Itzadityapandey](https://github.com/Itzadityapandey)
-<br>https://calculator-using-html-css-js-1.dipanshuvarshne.repl.co/
+<br>
 
-- 📫 How to reach me **email.com**
+- 📫 How to reach me **adityapanday7903@gmail.com**
 
 - 📄 Know about my experiences link*
 - - ⚡ Fun fact **I'm funny**
