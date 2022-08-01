@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="www.linkedin.com/in/adityakumarpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/adityakumarpandey"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aditya_pandey99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipanshu__varshney_dv" height="30" width="40" /></a>
 <a href="httcode sgef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dipanshu_1210" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/D_21_22_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya-kuamr" height="30" width="40" /></a>
