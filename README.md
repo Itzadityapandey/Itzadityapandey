@@ -2,7 +2,7 @@
 <br>I'm Aditya</h1>
 <h3 align="center">Exploring web 3 </h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
-- 🌱 I’m currently learning **C,  Java, HTML, Figma**
+- 🌱 I’m currently learning **C++,  Javasript, Flutter**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Itzadityapandey](https://github.com/Itzadityapandey)
