@@ -11,7 +11,7 @@
 - 📫 How to reach me **adityapanday7903@gmail.com**
 
 - 📄 Know about my experiences link*
--  ⚡ Fun fact **<Love to code but on my pc>**
+-  ⚡ Fun fact **-Love to code but on my pc-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
