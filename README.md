@@ -1,8 +1,8 @@
 <h1 align="center">Hi Coder's👋
  <br>I'm Aditya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Exploring web 3 </h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
-- 🌱 I’m currently learning **C,  Java**
+- 🌱 I’m currently learning **C,  Java, HTML, Figma**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Itzadityapandey](https://github.com/Itzadityapandey)
@@ -11,7 +11,7 @@
 - 📫 How to reach me **adityapanday7903@gmail.com**
 
 - 📄 Know about my experiences link*
-- - ⚡ Fun fact **I'm funny**
+- - ⚡ Fun fact **Love to code but n my pc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
