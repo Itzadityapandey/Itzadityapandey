@@ -13,8 +13,8 @@
 - 📄 *
 -  ⚡ Fun fact **-Love to code but on my pc-**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me: </h3>
+<p align="left"> 
 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aditya_pandey99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipanshu__varshney_dv" height="30" width="40" /></a>
