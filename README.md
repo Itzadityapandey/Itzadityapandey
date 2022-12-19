@@ -22,7 +22,7 @@
 </a>
 <a href="https://www.hackerrank.com/D_21_22_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya-kuamr" height="30" width="40" /></a>
 </p>
-
+  
 
 
 
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzadityapandey&show_icons=true&locale=en" alt="itzadityapandey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshu1210&" alt="itzadityapandey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshu1210&" alt="itzadityapandey" />   </p>
