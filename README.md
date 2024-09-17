@@ -4,6 +4,12 @@
 <img src="https://external-host.com/path-to-your-gif.gif" alt="GIF" style="display:block; width:100%;"/>
 
 ## 👨‍💻 Who Am I?
+# 👋 Hi, I'm Aditya
+
+<img src="https://github.com/user-attachments/assets/e8a3fda4-bc76-4cb7-91c7-bf157b21ed9b/e7499757bf3a6628a2bbfc74a1df01b8" alt="GIF" style="max-width:100%; display:block; margin:auto;"/>
+
+## 👨‍💻 Who Am I?
+
 
 
 
