@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Aditya Pandey
+# 👋 Hi, I'm Aditya
+  ![84d79f587caeee69caf306386ec3527d_w200](https://github.com/user-attachments/assets/37ae4a7c-4c1e-4d39-8c02-235fc00fdf2b)
 
-🌍 **Location**: Delhi, India  
-📧 **Email**: [adityapanday7903@gmail.com](mailto:adityapanday7903@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/adityakumarpandey](https://linkedin.com/in/adityakumarpandey)  
-📝 **Medium Blog**: [medium.com/@adityakumar](https://medium.com/@aadityapanday)  
 
 ## 👨‍💻 Who Am I?
 
