@@ -9,15 +9,15 @@ I'm a passionate **Cybersecurity Enthusiast** with hands-on experience in networ
 ## 🔧 Current Projects
 
 - **Facial Emotion Recognition for Classroom Feedback**  
-  [GitHub Repository](https://github.com/adityakumarpandey/facial-emotion-recognition)  
+  [View](https://github.com/Itzadityapandey/ClassFeedback)  
   A real-time emotion detection system using Python, OpenCV, and TensorFlow to improve student engagement monitoring.
 
 - **Antivirus Software**  
-  [GitHub Repository](https://github.com/adityakumarpandey/antivirus-software)  
+  [View](https://github.com/adityakumarpandey/antivirus-software)  
   A lightweight antivirus solution with 95% malware detection efficiency, built using Python.
 
 - **PostgreSQL Database for Crime Reports**  
-  [GitHub Repository](https://github.com/adityakumarpandey/crime-reports-database)  
+  [View](https://github.com/Itzadityapandey/CrimeReportDB)  
   A scalable PostgreSQL database managing over 1 million Boston crime reports with optimized query performance.
 
 ## 🛠️ Tech Stack & Tools
