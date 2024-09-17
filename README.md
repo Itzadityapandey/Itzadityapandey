@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Aditya
-  ![84d79f587caeee69caf306386ec3527d_w200](https://github.com/user-attachments/assets/37ae4a7c-4c1e-4d39-8c02-235fc00fdf2b)
+ 
+![access-denied-pizza-steve](https://github.com/user-attachments/assets/3ae878c8-fc0f-4434-beda-e92d3d0729c5)
+
 
 
 ## 👨‍💻 Who Am I?
 
 I'm a passionate **Cybersecurity Enthusiast** with hands-on experience in network security, cloud security, and system vulnerabilities. I focus on strengthening security protocols, reducing risks, and developing scalable solutions for securing data and networks. Currently working in the **cybersecurity domain**, I love solving challenges related to securing systems and mitigating threats.
 
+![gladgers-hacker-gers-guardians-of-galaxy](https://github.com/user-attachments/assets/57b9b3fe-88fa-4855-a601-ba61a9a4fdde)
 ## 🔧 Current Projects
 
 - **Facial Emotion Recognition for Classroom Feedback**  
