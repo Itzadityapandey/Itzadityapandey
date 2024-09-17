@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Aditya Kumar
+# 👋 Hi, I'm Aditya Pandey
 
 🌍 **Location**: Delhi, India  
 📧 **Email**: [adityapanday7903@gmail.com](mailto:adityapanday7903@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/adityakumarpandey](https://linkedin.com/in/adityakumarpandey)  
-📝 **Medium Blog**: [medium.com/@adityakumar](https://medium.com/@adityakumar)  
+📝 **Medium Blog**: [medium.com/@adityakumar]([https://medium.com/@aadityapanday])  
 
 ## 👨‍💻 Who Am I?
 
