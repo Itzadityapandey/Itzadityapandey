@@ -54,5 +54,5 @@ I'm a passionate **Cybersecurity Enthusiast** with hands-on experience in networ
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📈 GitHub Stats
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityakumarpandey&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumarpandey&layout=compact&theme=radical)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itzadityapandey&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzadityapandey&layout=compact&theme=radical)
