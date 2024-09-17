@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Aditya
+<img src="https://github.com/user-attachments/assets/e8a3fda4-bc76-4cb7-91c7-bf157b21ed9b/e7499757bf3a6628a2bbfc74a1df01b8" alt="GIF" style="width:100%;"/>
+
  
-![access-denied-pizza-steve](https://github.com/user-attachments/assets/3ae878c8-fc0f-4434-beda-e92d3d0729c5)
+
 
 
 
