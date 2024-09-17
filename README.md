@@ -1,36 +1,44 @@
-<h1 align="center">Hi Coder's👋
-<br>I'm Aditya</h1>
-<h3 align="center">Exploring Android dev </h3>
-<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
-- 🌱 I’m currently learning **C++,  Javasript, Flutter**
+# 👋 Hi, I'm Aditya Kumar
 
+🌍 **Location**: Delhi, India  
+📧 **Email**: [adityapanday7903@gmail.com](mailto:adityapanday7903@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/adityakumarpandey](https://linkedin.com/in/adityakumarpandey)  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Itzadityapandey](https://github.com/Itzadityapandey)
-<br>
+## 👨‍💻 Who Am I?
 
-- 📫 How to reach me **adityapanday7903@gmail.com**
+I'm a passionate **Cybersecurity Enthusiast** with hands-on experience in network security, cloud security, and system vulnerabilities. I focus on strengthening security protocols, reducing risks, and developing scalable solutions for securing data and networks. Currently working in the **cybersecurity domain**, I love solving challenges related to securing systems and mitigating threats.  
 
-- 📄 *
--  ⚡ Fun fact **-Love to code but on my pc-**
+## 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me: </h3>
-<p align="left"> 
+**Languages**:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aditya_pandey99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipanshu__varshney_dv" height="30" width="40" /></a>
-<a href="httcode sgef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dipanshu_1210" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/D_21_22_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya-kuamr" height="30" width="40" /></a>
-</p>
-  
+**Cybersecurity & Networking Tools**:  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-33AADD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0088CC?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5733?style=for-the-badge&logo=burpsuite&logoColor=white)
 
+**Databases**:  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Development Platforms**:  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+**Frameworks & Libraries**:  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+## 📈 GitHub Stats
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityakumarpandey&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumarpandey&layout=compact&theme=radical)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzadityapandey&show_icons=true&locale=en" alt="itzadityapandey" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshu1210&" alt="itzadityapandey" />   </p>
