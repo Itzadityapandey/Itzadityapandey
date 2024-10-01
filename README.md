@@ -13,7 +13,7 @@ I'm a passionate **Cybersecurity Enthusiast** with hands-on experience in networ
   A real-time emotion detection system using Python, OpenCV, and TensorFlow to improve student engagement monitoring.
 
 - **Antivirus Software**  
-  [View](https://github.com/adityakumarpandey/antivirus-software)  
+  [View](https://github.com/Itzadityapandey/Rakshak_Antivirus)  
   A lightweight antivirus solution with 95% malware detection efficiency, built using Python.
 
 - **PostgreSQL Database for Crime Reports**  
