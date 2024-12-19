@@ -12,13 +12,7 @@ I'm a passionate **Cybersecurity Enthusiast** with hands-on experience in networ
   [View](https://github.com/Itzadityapandey/ClassFeedback)  
   A real-time emotion detection system using Python, OpenCV, and TensorFlow to improve student engagement monitoring.
 
-- **Antivirus Software**  
-  [View](https://github.com/Itzadityapandey/Rakshak_Antivirus)  
-  A lightweight antivirus solution with 95% malware detection efficiency, built using Python.
 
-- **PostgreSQL Database for Crime Reports**  
-  [View](https://github.com/Itzadityapandey/CrimeReportDB)  
-  A scalable PostgreSQL database managing over 1 million Boston crime reports with optimized query performance.
 
 ## 🛠️ Tech Stack & Tools
 
