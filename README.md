@@ -49,6 +49,6 @@ Hi! I'm a passionate **Cybersecurity & AI Enthusiast** with hands-on experience 
 
 ## 🤝 Let's Connect
 
-📧 Email: [your-email@example.com]  
-🌐 Portfolio: *coming soon...*  
+
+🌐 Portfolio: *(https://portfolio-aditya.super.site/)*  
 💬 Ask me about: Cybersecurity, AI projects, OpenCV, TensorFlow,
