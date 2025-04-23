@@ -26,16 +26,7 @@ I'm a passionate **Cybersecurity Enthusiast** and AI tinkerer who loves diving d
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 
-### 🔐 Cybersecurity & Networking
-<code><img height="30" src="https://www.kali.org/images/kali-logo.png" alt="Kali Linux Logo"></code>
-<code><img height="30" src="https://www.rapid7.com/globalassets/_images/logo-metasploit.png" alt="Metasploit Logo"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/linux/linux-original.png" alt="Linux Logo"></code>
-<code><img height="30" src="https://www.wireshark.org/assets/images/wireshark-logo.png" alt="Wireshark Logo"></code>
-<code><img height="30" src="https://portswigger.net/burp/images/burp-suite-logo.png" alt="Burp Suite Logo"></code>
-<code><img height="30" src="https://nmap.org/images/nmap-logo.png" alt="Nmap Logo"></code>
-<code><img height="30" src="https://www.aircrack-ng.org/images/aircrack-ng.png" alt="Aircrack-ng Logo"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/security/security-original.png" alt="John the Ripper Logo"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.png" alt="SQLMap Logo"></code>
+
 
 ### 🧠 AI & ML
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
