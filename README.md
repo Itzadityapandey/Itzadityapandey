@@ -1,54 +1,68 @@
-# 👋 Hey there, I'm Aditya Pandey
 
-## 🛡️ Cybersecurity & AI Enthusiast | 👨‍💻 Tech Explorer 
 
-Hi! I'm a passionate **Cybersecurity & AI Enthusiast** with hands-on experience in securing networks, cloud environments, AI agent building and systems. I'm currently working in the cybersecurity domain where I focus on reducing vulnerabilities, automating threat mitigation, and building scalable defense mechanisms. I thrive on solving real-world security challenges and love turning complex problems into secure solutions.
+# 👋 Hi, I'm Aditya Kumar Pandey
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/itzadityapandey)
+
+I'm a passionate **Cybersecurity Enthusiast** and AI tinkerer who loves diving deep into the world of digital defense and intelligent systems. From analyzing system vulnerabilities to deploying real-time emotion recognition models, I enjoy solving challenges that blend **security**, **machine learning**, and **system optimization**.
+
+
+## 🚀 What I'm Up To
+
+- 🔐 **Cybersecurity Projects**: Actively exploring areas like network forensics, penetration testing, and red-teaming.
+- 🤖 **AI Experiments**: Building intelligent systems with TensorFlow, OpenCV & LLMs (e.g., Gemini & Ollama).
+- 🎓 **Learning**: Constantly levelling up in Deep Learning, System Security, and DevOps.
+
+
+
+## ⚙️ Tech Stack & Tools
+
+### 💻 Languages
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+
+### 🔐 Cybersecurity & Networking
+<code><img height="30" src="https://www.kali.org/images/kali-logo.svg"></code>
+<code><img height="30" src="https://www.metasploit.com/images/metasploit-logo.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img height="30" src="https://www.wireshark.org/assets/images/icons/apple-touch-icon.png"></code>
+<code><img height="30" src="https://portswigger.net/BurpSuite/images/favicons/favicon-32x32.png"></code>
+
+### 🧠 AI & ML
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
+
+### 🗃️ Databases & Dev Tools
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 
 ---
 
+## 📚 Featured Project
 
-## 🧰 Tech Toolbox
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🔐 Cybersecurity Toolkit
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-33AADD?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0088CC?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5733?style=flat-square&logo=burpsuite&logoColor=white)
-
-### 🛢️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🖥️ Platforms & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-### 📦 Frameworks & Libraries
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+### 🎓 [Facial Emotion Recognition for Classroom Feedback](https://github.com/Itzadityapandey/ClassFeedback)
+> Real-time emotion detection system using Python, OpenCV & TensorFlow. Helps visualize student engagement in classrooms and improve the overall learning environment.
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Fun Facts About Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzadityapandey&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- 💡 Currently exploring LLM-based AI agents and real-time data-driven risk prediction systems.
+- 🕵️ I love participating in Capture The Flag (CTF) challenges and bug bounty programs.
+- 🎤 I prefer explaining things naturally—like I’m talking to a curious friend.
 
 ---
 
-## 🤝 Let's Connect
-
-
-🌐 Portfolio: *(https://portfolio-aditya.super.site/)*  
+📬 **Let's connect and collaborate!**  
+Reach out via [LinkedIn](https://linkedin.com/in/itzadityapandey) or drop me a mail at `itzadityapandey@gmail.com`
+🌐 Portfolio: *https://portfolio-aditya.super.site/*  
 💬 Ask me about: Cybersecurity, AI projects, OpenCV, TensorFlow,
