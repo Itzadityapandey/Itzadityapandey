@@ -27,11 +27,11 @@ I'm a passionate **Cybersecurity Enthusiast** and AI tinkerer who loves diving d
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 
 ### 🔐 Cybersecurity & Networking
-<img height="30" src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux Logo">
-<img height="30" src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/images/metasploit-framework-logo.svg" alt="Metasploit Logo">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Wireshark_Logo.svg" alt="Wireshark Logo">
-<img height="30" src="https://portswigger.net/burp/images/burp-suite-logo.svg" alt="Burp Suite Logo">
+<code><img height="30" src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux Logo"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/images/metasploit-framework-logo.svg" alt="Metasploit Logo"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Wireshark_Logo.svg" alt="Wireshark Logo"></code>
+<code><img height="30" src="https://portswigger.net/burp/images/burp-suite-logo.svg" alt="Burp Suite Logo"></code>
 
 ### 🧠 AI & ML
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
