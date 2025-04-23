@@ -45,12 +45,7 @@ I'm a passionate **Cybersecurity Enthusiast** and AI tinkerer who loves diving d
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 
----
 
-## 📚 Featured Project
-
-### 🎓 [Facial Emotion Recognition for Classroom Feedback](https://github.com/Itzadityapandey/ClassFeedback)
-> Real-time emotion detection system using Python, OpenCV & TensorFlow. Helps visualize student engagement in classrooms and improve the overall learning environment.
 
 ---
 
