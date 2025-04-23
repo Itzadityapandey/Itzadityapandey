@@ -27,11 +27,11 @@ I'm a passionate **Cybersecurity Enthusiast** and AI tinkerer who loves diving d
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 
 ### 🔐 Cybersecurity & Networking
-<code><img height="30" src="https://www.kali.org/images/kali-logo.svg"></code>
-<code><img height="30" src="https://www.metasploit.com/images/metasploit-logo.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img height="30" src="https://www.wireshark.org/assets/images/icons/apple-touch-icon.png"></code>
-<code><img height="30" src="https://portswigger.net/BurpSuite/images/favicons/favicon-32x32.png"></code>
+<img height="30" src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux Logo">
+<img height="30" src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/images/metasploit-framework-logo.svg" alt="Metasploit Logo">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo">
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Wireshark_Logo.svg" alt="Wireshark Logo">
+<img height="30" src="https://portswigger.net/burp/images/burp-suite-logo.svg" alt="Burp Suite Logo">
 
 ### 🧠 AI & ML
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
