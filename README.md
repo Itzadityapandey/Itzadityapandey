@@ -1,22 +1,11 @@
 # 👋 Hey there, I'm Aditya Pandey
 
-## 🛡️ Cybersecurity Enthusiast | 👨‍💻 Tech Explorer | 💡 Lifelong Learner
+## 🛡️ Cybersecurity & AI Enthusiast | 👨‍💻 Tech Explorer 
 
-Hi! I'm a passionate **Cybersecurity Enthusiast** with hands-on experience in securing networks, cloud environments, and systems. I'm currently working in the cybersecurity domain where I focus on reducing vulnerabilities, automating threat mitigation, and building scalable defense mechanisms. I thrive on solving real-world security challenges and love turning complex problems into secure solutions.
-
----
-
-## 🚀 What I'm Building
-
-### 🎓 Facial Emotion Recognition for Classroom Feedback  
-> _Making classrooms emotionally intelligent_  
-[🔗 View Project](https://github.com/Itzadityapandey/ClassFeedback)
-
-- Real-time emotion detection using Python, OpenCV & TensorFlow
-- Captures facial expressions to improve student engagement
-- Visual analytics through pie charts and bar graphs
+Hi! I'm a passionate **Cybersecurity & AI Enthusiast** with hands-on experience in securing networks, cloud environments, AI agent building and systems. I'm currently working in the cybersecurity domain where I focus on reducing vulnerabilities, automating threat mitigation, and building scalable defense mechanisms. I thrive on solving real-world security challenges and love turning complex problems into secure solutions.
 
 ---
+
 
 ## 🧰 Tech Toolbox
 
